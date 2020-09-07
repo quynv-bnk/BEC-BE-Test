@@ -1,3 +1,4 @@
+Welcome to BEC Technologies preliminary test
 1. Write your own error handler middleware at "src/middlewares/errorHandler.js":
 
 - return error statusCode with message in json format: { error: <Error_Message> }
@@ -12,6 +13,7 @@
 
   ![](src/img/testSuccess.png)
 
-Submit: You can either 
+Submission: You can either 
 - Send the answer to me via email "hdang@bectechnologies.net" 
 - Fork and create a pull request on this Github repository.
+
