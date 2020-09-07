@@ -11,3 +11,7 @@
 => After correctly finish three tasks above then run "npm test" you can see green checks only. Good luck!
 
   ![](src/img/testSuccess.png)
+
+Submit: You can either 
+- Send the answer to me via email "hdang@bectechnologies.net" 
+- Fork and create a pull request on this Github repository.
